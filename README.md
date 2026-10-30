@@ -116,7 +116,7 @@ No apps. No screens. No literacy required. Just **voice in, voice out**.
 ### 1️⃣ Clone & Install
 
 ```bash
-git clone https://github.com/<your-username>/SIH_PS2_2K26.git
+git clone https://github.com/parames-05/Multilingual-Cooperative-Governance-Legal-Assistance-Kiosk.git
 cd SIH_PS2_2K26
 
 python -m venv .venv
