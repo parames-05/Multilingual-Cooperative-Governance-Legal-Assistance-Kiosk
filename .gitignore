@@ -1,0 +1,39 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Audio recordings (generated at runtime)
+recordings/*.wav
+!recordings/.gitkeep
+
+# Large data files (vector DB & processed chunks)
+vector_db/
+rag/processed_chunks.json
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg

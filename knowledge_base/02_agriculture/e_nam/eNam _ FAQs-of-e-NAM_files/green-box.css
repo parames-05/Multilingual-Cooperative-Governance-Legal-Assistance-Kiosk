@@ -1,0 +1,49 @@
+/*green theme*/
+.green-theme .header-section{background-color:#6D9520;}
+.green-theme .navigation li a.active{background-color:#6D9520;color:#fff;}
+.green-theme .navigation li a:hover{background-color:#6D9520;color:#fff;}
+.green-theme .home-q .quick-link-list{border-top:0px solid #6D9520;}
+.green-theme .thumbnails .span3 .caption h4 {background-color: #6D9520;}
+.green-theme .home-n .sidebar-header-title{border-bottom:0px solid #6D9520;}
+.green-theme .natinal-agricul-market .header-title{border-bottom:5px solid #6D9520;}
+.green-theme .language-bg-color{background-color: #5d7f1b;}
+.green-theme .natinal-agricul-market table thead{background-color: #6D9520;}
+.green-theme .commodity-graph-section .header-title{color:#6D9520;}
+
+/*new css*/
+.green-theme .navbar-toggle{background-color:#6D9520;}
+.green-theme .register-icon{background-image:url('quick-link/green/register-ico.png');}
+.green-theme .login-icon{background-image:url('quick-link/green/login-ico.png');}
+.green-theme .font-size-change a{color:#6b9800;}
+.green-theme .lang-box select {background-color: #688b24;}
+.green-theme .events-title{    border-bottom: 2px solid #71a311;}
+.green-theme .events-title span{background-color: #71a311;}
+.green-theme .enam-events-box p.p-date{color:#456a00 !important;}
+.green-theme .h-text-msg{color:#307800;}
+.green-theme .map-detail-btn{background-color:#307800;}
+.green-theme .map-detail-btn:hover{background-color:#265d02;color:#fff;}
+.green-theme .nav-bg-th{background-image:url('../images/new-theme/nav-bg.jpg');background-color:#5e9106;}
+.green-theme .navigation li a:hover,.green-theme .navigation li a.active,.green-theme .navigation li a:focus{background-color:#355d04 !important;}
+.green-theme .title-header-bg h3{color:#648621;}
+.green-theme .content-section ul li{background-image:url("../images/li-arrow.png");}
+.green-theme .well{background-color:#8bbd2b;}
+.green-theme .btn-success{background-color: #648621;    border-color: #9ed237;}
+.green-theme .btn-success:active:hover,.green-theme .btn-success:hover{background-color: #568439;    border-color: #9ed237;}
+.green-theme .mandi-table-h table th{background-color:#0E4C00;color:#fff;}
+.green-theme .sidebar-header-title span.e-text-news{background: #5e9106;}
+.green-theme .sidebar-header-title{background-color:#5e9106;}
+.green-theme .focus-news{background: #c8dda7;}
+.green-theme .news-achive{background-color: #5e9106;}
+.green-theme .quick-link-list li{background-color: #c8dda7;}
+.green-theme .quick-link-list li:hover{background-color:#bfd49d;}
+.green-theme .content-section h3.p-title span{background-color:#c8dda7;}
+.green-theme .panel-default>.panel-heading{background-color:#e9f5d7;}
+.green-theme .panel-title{color:#3d580d;}
+.green-theme .bc-nav a{color:#426503;}
+.green-theme .bc-nav a:hover{color:#385602;}
+.green-theme .live-table-head{background-color: #5e9106;}
+.green-theme a{color:#497105;}
+.green-theme a:hover{color:#385602;}
+
+
+

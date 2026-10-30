@@ -1,0 +1,11 @@
+@media print{
+	.commodity-table-list{width:10%;float:left !important;margin-right:10px !important;clear:both;} 
+	.container1-t{}
+	.row1{}
+	.commodity-table-list thead{background-color:#ddd !important;font-size:13px;}
+    	.commodity-table-list tbody tr td{padding:5px 3px !important;text-align:left !important;font-size:13px;}
+    	.commodity-table-list table{float:left !important;font-size:13px;width:140px !important;}
+	
+}
+
+    	

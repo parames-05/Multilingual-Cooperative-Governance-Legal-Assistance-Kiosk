@@ -1,0 +1,660 @@
+@media (max-width: 360px) {
+
+.quick-links-btn-sec{width: 100%;}
+.head-slider{width:100%;margin-top:8px;margin-bottom:8px;}
+.latest-news{width:100%;}
+.video-sec{width:100%;}
+.about-sec{width:100%;}
+.home-s-map{width:100%;}
+.content-9{width:100%;margin-bottom:30px;}
+.content-3{width:100%;}
+.india-logo .govt-logo{margin-left:0px;margin-right:0px;width:100%;}
+.sfac-logo{width:100px;margin-right:6px;}
+.e-nam-logo{width:172px;margin-left:6px;}
+.header-right-section{border-left:0px solid #eee;padding-left:0px;}
+.header-right-list{margin-left:0px;padding:10px 5px 10px 0px;}
+.border-line{height:60px;}
+.lag-box-sec{margin-left:10px;}
+.color-theme{padding-top:10px;margin-left:6px;}
+.navbar-default .navbar-nav>li>a{background-color:#bdbdbd;color:#000 !important;}
+.nav-sub-menu{background-color:#bdbdbd !important;width:100% !important;}
+.video-sec .elearn-v-box{margin-left:35px;}
+.home-ind-map{margin-left:0px;}
+.footer-site-links li{padding:2px 4px;margin-bottom: 10px;margin-top:20px;}
+.padd-right{padding-right:0px;}
+.asp-dis-map{position:relative;margin-left:0px;}
+.f-img{width:100%;}
+.elearn-v-box{margin-left:0px;}
+.focus-news{height:188px;}
+.focus-news marquee{height:170px;}
+.quick-link-list li{padding: 5.6px 6px;}
+.footer-site-links{padding-left:0%;}
+
+.green-theme .navigation li a{background-color:#54ab25;border-bottom:1px solid #eee;}
+.red-theme .navigation li a{background-color:#d26d46;border-bottom:1px solid #eee;}
+.blue-theme .navigation li a{background-color:#4a95d0;border-bottom:1px solid #eee;}
+.orange-theme .navigation li a{background-color:#bf328d;border-bottom:1px solid #eee;}
+.apmcs-map img{width:100%;}
+/*.footer-site-links{width:82%;margin-left:9%;}*/
+.comman-c-icon-por{margin-left:37%;margin-right:20%;}
+.offset-s-1{margin-left:0%;}
+.offset-s-2{margin-left:0%;}
+.h-space-padd-r{padding-left:0;padding-right:0px;}
+.h-space-padd-l{padding-left:15px;padding-right:15px;}
+.h-space-padd-r-l{padding-left:0px;padding-right:0px;}
+.sub-nav-menu-img .col-sm-3{margin-bottom:20px !important;float:left;width:100%;}
+.e-contact-detail-box{width:100%;padding:12px 3px;}
+.no-of-mandis-box{width:100%;}
+.select-state-img{width:45%;}
+.contact-select-state{width:55%;padding:0 15px 0 0;}
+.contact-select-dist{width:100%;margin-bottom:5px;}
+.contact-select-apmc{width:100%;padding:0 15px !important;}
+.e-trade-state-img{width:45%;}
+.e-trade-select-state{width:55%;padding:0 15px 0 0;margin-bottom:12px !important;}
+.t-trade-select-dist{width:50%;}
+.e-trade-select-dist{width:49%;padding:0px 8px 0 15px;}
+.e-trade-select-apmc{padding:0px 8px 0 8px;width:49%;}
+.e-trade-select-date{width: 49%;padding:0 8px 0 15px;}
+.e-trade-select-date1{width: 49%;padding: 0 8px 0 8px;}
+.e-trade-refesh-btn{padding:0px 15px;width: 100%;}
+.apmcs-map img{margin-left:0px;margin-top:7px;}
+.select-y-state{width:100%;}
+.video-gd-view .video-g-details{padding-left:0px;padding-right:0px;}
+.v-g-imag{height:190px;width:310px;}
+.video-gd-view{margin-bottom:15px;}
+.e-trade-inputs{width: 100%;padding-left: 15px;padding-right: 20px;}
+.e-trade-inputs1{width: 100%;padding-left: 15px;padding-right: 20px;}
+.e-trade-refresh-b{width:100%;padding-left: 15px;}
+.mobile-hide{display:none;}
+
+}
+@media (min-width: 360px) {
+
+.quick-links-btn-sec{width: 100%;}
+.head-slider{width:100%;margin-top:8px;margin-bottom:8px;}
+.latest-news{width:100%;}
+.video-sec{width:100%;}
+.about-sec{width:100%;}
+.home-s-map{width:100%;}
+.content-9{width:100%;margin-bottom:30px;}
+.content-3{width:100%;}
+
+
+.india-logo .govt-logo{margin-left:0px;margin-right:0px;width:100%;}
+.sfac-logo{width:100px;margin-right:6px;}
+.e-nam-logo{width:195px;margin-left:6px;}
+.header-right-section{border-left:0px solid #eee;padding-left:0px;}
+.header-right-list{margin-left:0px;padding:10px 5px 10px 0px;}
+.border-line{height:60px;}
+.lag-box-sec{margin-left:35px;}
+.color-theme{padding-top:10px;margin-left:6px;}
+.navbar-default .navbar-nav>li>a{background-color:#bdbdbd;color:#000 !important;}
+.nav-sub-menu{background-color:#bdbdbd !important;width:100% !important;}
+.video-sec .elearn-v-box{margin-left:35px;}
+.home-ind-map{margin-left:0px;}
+.footer-site-links li{padding:2px 4px;margin-bottom: 10px;margin-top:20px;}
+.padd-right{padding-right:0px;}
+.asp-dis-map{position:relative;margin-left:0px;}
+.f-img{width:100%;}
+.elearn-v-box{margin-left:0px;}
+.focus-news{height:188px;}
+.focus-news marquee{height:170px;}
+.quick-link-list li{padding: 5.6px 6px;}
+.footer-site-links{padding-left:0%;}
+
+.green-theme .navigation li a{background-color:#54ab25;border-bottom:1px solid #eee;}
+.red-theme .navigation li a{background-color:#d26d46;border-bottom:1px solid #eee;}
+.blue-theme .navigation li a{background-color:#4a95d0;border-bottom:1px solid #eee;}
+.orange-theme .navigation li a{background-color:#bf328d;border-bottom:1px solid #eee;}
+.apmcs-map img{width:100%;}
+/*.footer-site-links{width:82%;margin-left:9%;}*/
+.comman-c-icon-por{margin-left:37%;margin-right:20%;}
+.offset-s-1{margin-left:0%;}
+.offset-s-2{margin-left:0%;}
+.h-space-padd-r{padding-left:0;padding-right:0px;}
+.h-space-padd-l{padding-left:15px;padding-right:15px;}
+.h-space-padd-r-l{padding-left:0px;padding-right:0px;}
+.e-contact-detail-box{width:100%;padding:12px 3px;}
+.no-of-mandis-box{width:100%;}
+.select-state-img{width:45%;}
+.contact-select-state{width:55%;padding:0 15px 0 0;}
+.contact-select-dist{width:100%;}
+.contact-select-apmc{width:100%;padding:0 15px !important;}
+.e-trade-state-img{width:45%;}
+.e-trade-select-state{width:55%;padding:0 15px 0 0;margin-bottom:12px !important;}
+.e-trade-select-dist{width:49%;padding:0px 8px 0 15px;}
+.e-trade-select-apmc{padding:0px 8px 0 8px;width:49%;}
+.e-trade-select-date{width: 49%;padding:0 8px 0 15px;}
+.e-trade-select-date1{width: 49%;padding: 0 8px 0 8px;}
+.e-trade-refesh-btn{padding:0px 15px;width: 100%;}
+.apmcs-map img{margin-left:0px;margin-top:7px;}
+.select-y-state{width:100%;}
+.video-gd-view .video-g-details{padding-left:0px;padding-right:0px;}
+.v-g-imag{height:190px;width:310px;}
+.video-gd-view{margin-bottom:15px;}
+.e-trade-inputs{width: 100%;padding-left: 15px;padding-right: 20px;}
+.e-trade-inputs1{width: 100%;padding-left: 15px;padding-right: 20px;}
+.e-trade-refresh-b{width:100%;padding-left: 15px;}
+
+.mobile-hide{display:none;}
+}
+
+@media (min-width: 480px) {
+.nav>li>a{padding:10px 12px;}
+.quick-links-btn-sec{width: 100%;}
+.head-slider{width:100%;margin-top:8px;margin-bottom:8px;}
+.latest-news{width:100%;}
+.video-sec{width:100%;}
+.about-sec{width:100%;}
+.home-s-map{width:100%;}
+.content-9{width:100%;margin-bottom:30px;}
+.content-3{width:100%;}
+.india-logo .govt-logo{margin-left:0px;margin-right:0px;width:100%;}
+.sfac-logo{width:100px;margin-right:6px;}
+.e-nam-logo{width:195px;margin-left:6px;}
+.header-right-section{border-left:0px solid #eee;padding-left:0px;}
+.header-right-list{margin-left:0px;padding:10px 5px 10px 0px;}
+.border-line{height:60px;}
+.lag-box-sec{margin-left:45px;}
+.color-theme{padding-top:10px;margin-left:6px;}
+.navbar-default .navbar-nav>li>a{background-color:#bdbdbd;color:#000 !important;}
+.nav-sub-menu{background-color:#bdbdbd !important;width:100% !important;}
+.video-sec .elearn-v-box{margin-left:35px;}
+.home-ind-map{margin-left:40px;}
+.footer-site-links li{padding:2px 6px;margin-bottom: 10px;margin-top:9px;}
+.padd-right{padding-right:0px;}
+.asp-dis-map{position:relative;margin-left:0px;}
+.f-img{width:100%;}
+.elearn-v-box{margin-left:0px;}
+.focus-news{height:188px;}
+.focus-news marquee{height:170px;}
+.quick-link-list li{padding: 5.6px 6px;}
+.footer-site-links{padding-left:0%;}
+
+.green-theme .navigation li a{background-color:#54ab25;border-bottom:1px solid #eee;}
+.red-theme .navigation li a{background-color:#d26d46;border-bottom:1px solid #eee;}
+.blue-theme .navigation li a{background-color:#4a95d0;border-bottom:1px solid #eee;}
+.orange-theme .navigation li a{background-color:#bf328d;border-bottom:1px solid #eee;}
+.apmcs-map img{width:100%;}
+/*.footer-site-links{width:82%;margin-left:8%;}*/
+.comman-c-icon-por{margin-left:37%;margin-right:20%;}
+.offset-s-1{margin-left:0%;}
+.offset-s-2{margin-left:0%;}
+.h-space-padd-r{padding-left:0;padding-right:0px;}
+.h-space-padd-l{padding-left:15px;padding-right:15px;}
+.h-space-padd-r-l{padding-left:0px;padding-right:0px;}
+.e-contact-detail-box{width:100%;padding:12px 3px;}
+.no-of-mandis-box{width:100%;}
+.select-state-img{width:45%;}
+.contact-select-state{width:55%;padding:0 15px 0 0;}
+.contact-select-dist{width:100%;}
+.contact-select-apmc{width:100%;padding:0 15px !important;}
+.e-trade-state-img{width:45%;}
+.e-trade-select-state{width:55%;padding:0 15px 0 0;margin-bottom:12px !important;}
+.e-trade-select-dist{width:49%;padding:0px 8px 0 15px;}
+.e-trade-select-apmc{padding:0px 8px 0 8px;width:49%;}
+.e-trade-select-date{width: 49%;padding:0 8px 0 15px;}
+.e-trade-select-date1{width: 49%;padding: 0 8px 0 8px;}
+.e-trade-refesh-btn{padding:0px 15px;width: 100%;}
+.apmcs-map img{margin-left:0px;margin-top:7px;}
+.select-y-state{width:100%;}
+.video-gd-view .video-g-details{padding-left:0px;padding-right:0px;}
+.v-g-imag{height:190px;width:310px;}
+.video-gd-view{margin-bottom:15px;}
+.e-trade-inputs{width: 100%;padding-left: 15px;padding-right: 20px;}
+.e-trade-inputs1{width: 100%;padding-left: 15px;padding-right: 20px;}
+.e-trade-refresh-b{width:100%;padding-left: 15px;}
+
+
+.mobile-hide{display:none;}
+}
+
+@media (min-width: 768px) {
+.nav>li>a{padding:10px 12px;}
+.quick-links-btn-sec{width: 100%;}
+.head-slider{width:100%;margin-top:0px;margin-bottom:0px;}
+.latest-news{width:100%;}
+.video-sec{width:100%;}
+.about-sec{width:100%;}
+.home-s-map{width:100%;}
+.content-9{width:78%;margin-bottom:30px;}
+.content-3{width:22%;}
+.india-logo .govt-logo{margin-left:4px;margin-right:3px;width:auto;}
+.sfac-logo{width:136px;margin-right:10px;}
+.e-nam-logo{width:273px;margin-left:10px;}
+.header-right-section{border-left:1px solid #eee;padding-left:0px;}
+.header-right-list{margin-left:15px;padding:10px 5px 10px 0px;}
+.border-line{height:86px;}
+.lag-box-sec{margin-left:60px;}
+.color-theme{padding-top:10px;margin-left:15px;}
+.navbar-default .navbar-nav>li>a{background-color:#bdbdbd;color:#000 !important;}
+.nav-sub-menu{background-color:#bdbdbd !important;width:unset !important;}
+.video-sec .elearn-v-box{margin-left:-15px;}
+.home-ind-map{margin-left:0;}
+.footer-site-links li{padding:0px 20px;margin-bottom: 8px;margin-top:9px;}
+.padd-right{padding-right:35px;}
+.asp-dis-map{position:relative;margin-left:190px;}
+.f-img{width:auto;}
+.elearn-v-box{margin-left:0px;}
+.focus-news{height:188px;}
+.focus-news marquee{height:170px;}
+.quick-link-list li{padding: 5.6px 6px;}
+.footer-site-links{padding-left:0%;}
+
+.navigation li a{background-color:unset;border-bottom:0px;}
+.green-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.red-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.blue-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.orange-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.apmcs-map img{width:100%;}
+/*.footer-site-links{width:100%;margin-left:0;}*/
+.comman-c-icon-por{margin-left:30%;margin-right:20%;}
+.offset-s-1{margin-left:14.66%;}
+.offset-s-2{margin-left:37%;}
+.h-space-padd-r{padding-left:0;padding-right:15px;}
+.h-space-padd-l{padding-left:0;padding-right:15px;}
+.h-space-padd-r-l{padding-left:0px;padding-right:0px;}
+.e-contact-detail-box{width:83.33%;padding:19px 3px;}
+.no-of-mandis-box{width:16.66%;}
+.select-state-img{width:45%;}
+.contact-select-state{width:55%;padding:0 15px 0 0;}
+.contact-select-dist{width:100%;}
+.contact-select-apmc{width:100%;padding:0 15px !important;}
+.e-trade-state-img{width:16.2%;}
+.e-trade-select-state{width:27.5%;padding:0 0px 0 0;margin-bottom:12px !important;}
+.e-trade-select-dist{width:28.5%;padding:0px 15px;}
+.e-trade-select-apmc{padding:0px 15px 0px 0px;width:27.3%;}
+.e-trade-select-date{width: 29.2%;padding: 0 15px 0 0;}
+.e-trade-select-date1{width: 26%;padding: 0 8px 0 0;}
+.e-trade-refesh-btn{padding:0px;width: 27%;}
+.apmcs-map img{margin-left:15px;margin-top:7px;}
+.select-y-state{width:100%;}
+.video-gd-view .video-g-details{padding-left:0px;padding-right:15px;}
+.v-g-imag{height:172px;width:280px;}
+.e-trade-inputs{width: 19%;padding-left: 0;padding-right: 20px;}
+.e-trade-inputs1{width: 18%;padding-left: 0;padding-right: 20px;}
+.e-trade-refresh-b{width:7%;padding-left: 0px;}
+
+
+.mobile-hide{display:none;}
+}
+@media (min-width: 992px) {
+.nav>li>a{padding:10px 12px;}
+.quick-links-btn-sec{width: 19%;}
+.head-slider{width:60%;margin-top:0px;margin-bottom:0px;}
+.latest-news{width:21%;}
+.about-sec{width:56%;}
+.home-s-map{width:23%;}
+.content-9{width:78%;margin-bottom:30px;}
+.content-3{width:22%;}
+.india-logo .govt-logo{margin-left:8px;margin-right:7px;width:auto;}
+.sfac-logo{width:136px;margin-right:22px;}
+.e-nam-logo{width:273px;margin-left:22px;}
+.header-right-section{border-left:1px solid #eee;padding-left:10px;}
+.header-right-list{margin-left:15px;padding:10px 10px 10px 0px;}
+.border-line{height:86px;}
+.lag-box-sec{margin-left:80px;}
+.color-theme{padding-top:15px;margin-left:15px;}
+.navbar-default .navbar-nav>li>a{background-color:transparent;color:#fff !important;}
+.nav-sub-menu{background-color:#fff !important;width:unset !important;}
+.video-sec .elearn-v-box{margin-left:-15px;}
+.home-ind-map{margin-left:0;}
+.footer-site-links li{padding:0px 25px;margin-bottom: 8px;margin-top:9px;}
+.padd-right{padding-right:35px;}
+.asp-dis-map{position:relative;margin-left:190px;}
+.f-img{width:auto;}
+.elearn-v-box{margin-left:0px;}
+.focus-news{height:180px;}
+.focus-news marquee{height:150px;}
+.quick-link-list li{padding: 5.6px 6px;}
+.footer-site-links{margin-left:0;}
+
+.navigation li a{background-color:unset;border-bottom:0px;}
+.green-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.red-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.blue-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.orange-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.apmcs-map img{width:auto;}
+.comman-c-icon-por{margin-left:20%;margin-right:20%;}
+.offset-s-1{margin-left:14.66%;}
+.offset-s-2{margin-left:37%;}
+.h-space-padd-r{padding-left:0;padding-right:15px;}
+.h-space-padd-l{padding-left:0px;padding-right:15px;}
+.h-space-padd-r-l{padding-left:15px;padding-right:0px;}
+.e-contact-detail-box{width:83.33%;padding:19px 3px;}
+.no-of-mandis-box{width:16.66%;}
+.select-state-img{width:19.5%;}
+.contact-select-state{width:25%;padding:0px;}
+.contact-select-dist{width:28.5%;}
+.contact-select-apmc{width:25%;padding:0 0px !important;}
+.e-trade-state-img{width:16.2%;}
+.e-trade-select-state{width:27.5%;padding:0 0px 0 0;margin-bottom:5px !important;}
+.e-trade-select-dist{width:28.5%;padding:0px 15px;}
+.e-trade-select-apmc{padding:0px 15px 0px 0px;width:27.3%;}
+.e-trade-select-date{width: 29.2%;padding: 0 15px 0 0;}
+.e-trade-select-date1{width: 26%;padding: 0 8px 0 0;}
+.e-trade-refesh-btn{padding:0px;width: 27%;}
+.apmcs-map img{margin-left:15px;margin-top:7px;}
+.select-y-state{width:25%;}
+.video-gd-view .video-g-details{padding-left:0px;padding-right:15px;}
+.v-g-imag{height:172px;width:280px;}
+.video-gd-view{margin-bottom:20px;}
+.e-trade-inputs{width: 19%;padding-left: 0;padding-right: 20px;}
+.e-trade-inputs1{width: 18%;padding-left: 0;padding-right: 20px;}
+.e-trade-refresh-b{width:7%;padding-left: 0px;}
+
+
+
+.mobile-hide{display:block;}
+}
+@media (min-width: 1200px) {
+.container {width: 1270px;}
+.nav>li>a{padding:10px 18px;}
+.quick-links-btn-sec{width: 19%;}
+.head-slider{width:60%;margin-top:0px;margin-bottom:0px;}
+.latest-news{width:21%;}
+.video-sec{width:21%;}
+.about-sec{width:56%;}
+.home-s-map{width:23%;}
+.content-9{width:78%;margin-bottom:0px;}
+.content-3{width:22%;}
+.india-logo .govt-logo{margin-left:8px;margin-right:7px;width:auto;}
+.sfac-logo{width:136px;margin-right:22px;}
+.e-nam-logo{width:273px;margin-left:22px;}
+.header-right-section{border-left:1px solid #eee;padding-left:10px;}
+.header-right-list{margin-left:15px;padding:10px 10px 10px 0px;}
+.border-line{height:86px;}
+.lag-box-sec{margin-left:80px;}
+.color-theme{padding-top:15px;margin-left:15px;}
+.navbar-default .navbar-nav>li>a{background-color:transparent;color:#fff !important;}
+.nav-sub-menu{background-color:#fff !important;width:unset !important;}
+.video-sec .elearn-v-box{margin-left:-15px;}
+.home-ind-map{margin-left:0;}
+.footer-site-links li{padding:0px 25px;margin-bottom: 8px;margin-top:9px;}
+.padd-right{padding-right:35px;}
+.asp-dis-map{position:relative;margin-left:190px;}
+.f-img{width:auto;}
+.elearn-v-box{margin-left:0px;}
+.focus-news{height:198px;}
+.focus-news marquee{height:170px;}
+.quick-link-list li{padding: 5.6px 6px;}
+
+
+.navigation li a{background-color:unset;border-bottom:0px;}
+.green-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.red-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.blue-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.orange-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.apmcs-map img{width:auto;}
+.comman-c-icon-por{margin-left:20%;margin-right:20%;}
+.offset-s-1{margin-left:14.66%;}
+.offset-s-2{margin-left:37%;}
+.h-space-padd-r{padding-left:0;padding-right:15px;}
+.h-space-padd-l{padding-left:0px;padding-right:15px;}
+.h-space-padd-r-l{padding-left:15px;padding-right:0px;}
+.e-contact-detail-box{width:83.33%;padding:19px 3px;}
+.no-of-mandis-box{width:16.66%;}
+.select-state-img{width:19.5%;}
+.contact-select-state{width:25%;padding:0px;}
+.contact-select-dist{width:28.5%;}
+.contact-select-apmc{width:25%;padding:0 0px !important;}
+.e-trade-state-img{width:16.2%;}
+.e-trade-select-state{width:27.5%;padding:0 0px 0 0;margin-bottom:5px !important;}
+.e-trade-select-dist{width:28.5%;padding:0px 15px;}
+.e-trade-select-apmc{padding:0px 15px 0px 0px;width:27.3%;}
+.e-trade-select-date{width: 29.2%;padding: 0 15px 0 0;}
+.e-trade-select-date1{width: 26%;padding: 0 8px 0 0;}
+.e-trade-refesh-btn{padding:0px;width: 27%;}
+.apmcs-map img{margin-left:15px;margin-top:7px;}
+.select-y-state{width:25%;}
+.video-gd-view .video-g-details{padding-left:0px;padding-right:15px;}
+.v-g-imag{height:172px;width:280px;}
+.video-gd-view{margin-bottom:30px;}
+.e-trade-inputs{width: 19%;padding-left: 0;padding-right: 20px;}
+.e-trade-inputs1{width: 18%;padding-left: 0;padding-right: 20px;}
+.e-trade-refresh-b{width:7%;padding-left: 0px;}
+
+.mobile-hide{display:block;}
+}
+
+@media (min-width: 1400px) {
+.container {width: 1490px;}
+.india-logo img{width:auto;}
+.nav>li>a{padding:10px 20px;}
+.quick-links-btn-sec{width: 19%;}
+.head-slider{width:60%;margin-top:0px;margin-bottom:0px;}
+.latest-news{width:21%;}
+.video-sec{width:21%;}
+.about-sec{width:56%;}
+.home-s-map{width:23%;}
+.content-9{width:78%;margin-bottom:0px;}
+.content-3{width:22%;}
+.india-logo .govt-logo{margin-left:8px;margin-right:7px;width:auto;}
+.sfac-logo{width:136px;margin-right:22px;}
+.e-nam-logo{width:273px;margin-left:22px;}
+.header-right-section{border-left:1px solid #eee;padding-left:10px;}
+.header-right-list{margin-left:15px;padding:10px 10px 10px 0px;}
+.border-line{height:86px;}
+.lag-box-sec{margin-left:80px;}
+.color-theme{padding-top:15px;margin-left:15px;}
+.navbar-default .navbar-nav>li>a{background-color:transparent;color:#fff !important;}
+.nav-sub-menu{background-color:#fff !important;width:unset !important;}
+.video-sec .elearn-v-box{margin-left:-15px;}
+.home-ind-map{margin-left:0;}
+.footer-site-links li{padding:0px 25px;margin-bottom: 8px;margin-top:9px;}
+.padd-right{padding-right:35px;}
+.asp-dis-map{position:relative;margin-left:190px;}
+.f-img{width:auto;}
+.elearn-v-box{margin-left:0px;}
+.focus-news{height:198px;}
+.focus-news marquee{height: 150px;}
+.quick-link-list li{padding: 5.6px 6px;}
+
+
+.navigation li a{background-color:unset;border-bottom:0px;}
+.green-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.red-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.blue-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.orange-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.apmcs-map img{width:auto;}
+.comman-c-icon-por{margin-left:20%;margin-right:20%;}
+.offset-s-1{margin-left:14.66%;}
+.offset-s-2{margin-left:37%;}
+.h-space-padd-r{padding-left:0px;padding-right:15px;}
+.h-space-padd-l{padding-left:0px;padding-right:15px;}
+.h-space-padd-r-l{padding-left:15px;padding-right:0px;}
+.e-contact-detail-box{width:83.33%;padding:19px 3px;}
+.no-of-mandis-box{width:16.66%;}
+.select-state-img{width:19.5%;}
+.contact-select-state{width:25%;padding:0px;}
+.contact-select-dist{width:28.5%;}
+.contact-select-apmc{width:25%;padding:0 0px !important;}
+.e-trade-state-img{width:16.2%;}
+.e-trade-select-state{width:27.5%;padding:0 0px 0 0;margin-bottom:5px !important;}
+.e-trade-select-dist{width:28.5%;padding:0px 15px;}
+.e-trade-select-apmc{padding:0px 15px 0px 0px;width:27.3%;}
+.e-trade-select-date{width: 29.2%;padding: 0 15px 0 0;}
+.e-trade-select-date1{width: 26%;padding: 0 8px 0 0;}
+.e-trade-refesh-btn{padding:0px;width: 27%;}
+.apmcs-map img{margin-left:15px;margin-top:7px;}
+.select-y-state{width:25%;}
+.video-gd-view .video-g-details{padding-left:0px;padding-right:15px;}
+.v-g-imag{height:172px;width:280px;}
+.video-gd-view{margin-bottom:30px;}
+.e-trade-inputs{width: 19%;padding-left: 0;padding-right: 20px;}
+.e-trade-inputs1{width: 18%;padding-left: 0;padding-right: 20px;}
+.e-trade-refresh-b{width:7%;padding-left: 0px;}
+
+.mobile-hide{display:block;}
+}
+
+@media (min-width: 1600px) {
+.container {width: 1490px;}
+.india-logo img{width:auto;}
+.nav>li>a{padding:10px 16px;}
+.quick-links-btn-sec{width: 19%;}
+.head-slider{width:60%;margin-top:0px;margin-bottom:0px;}
+.latest-news{width:21%;}
+.video-sec{width:21%;}
+.about-sec{width:56%;}
+.home-s-map{width:23%;}
+.content-9{width:78%;margin-bottom:0px;}
+.content-3{width:22%;}
+.india-logo .govt-logo{margin-left:8px;margin-right:7px;width:auto;}
+.sfac-logo{width:136px;margin-right:22px;}
+.e-nam-logo{width:273px;margin-left:22px;}
+.header-right-section{border-left:1px solid #eee;padding-left:10px;}
+.header-right-list{margin-left:15px;padding:10px 10px 10px 0px;}
+.border-line{height:86px;}
+.lag-box-sec{margin-left:80px;}
+.color-theme{padding-top:15px;margin-left:15px;}
+.navbar-default .navbar-nav>li>a{background-color:transparent;color:#fff !important;}
+.nav-sub-menu{background-color:#fff !important;width:unset !important;}
+.video-sec .elearn-v-box{margin-left:-15px;}
+.home-ind-map{margin-left:0;}
+.footer-site-links li{padding:0px 25px;margin-bottom: 8px;margin-top:9px;}
+.padd-right{padding-right:35px;}
+.asp-dis-map{position:relative;margin-left:190px;}
+.f-img{width:auto;}
+.elearn-v-box{margin-left:0px;}
+.focus-news{height:245px;}
+.focus-news marquee{height:220px;}
+.quick-link-list li{padding: 8.9px 6px;}
+
+
+.navigation li a{background-color:unset;border-bottom:0px;}
+.green-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.red-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.blue-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.orange-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.apmcs-map img{width:auto;}
+.comman-c-icon-por{margin-left:20%;margin-right:20%;}
+.offset-s-1{margin-left:14.66%;}
+.offset-s-2{margin-left:37%;}
+.h-space-padd-r{padding-left:0px;padding-right:15px;}
+.h-space-padd-l{padding-left:0px;padding-right:15px;}
+.h-space-padd-r-l{padding-left:15px;padding-right:0px;}
+.e-contact-detail-box{width:83.33%;padding:19px 3px;}
+.no-of-mandis-box{width:16.66%;}
+.select-state-img{width:19.5%;}
+.contact-select-state{width:25%;padding:0px;}
+.contact-select-dist{width:28.5%;}
+.contact-select-apmc{width:25%;padding:0 0px !important;}
+.e-trade-state-img{width:16.2%;}
+.e-trade-select-state{width:27.5%;padding:0 0px 0 0;margin-bottom:5px !important;}
+.e-trade-select-dist{width:28.5%;padding:0px 15px;}
+.e-trade-select-apmc{padding:0px 15px 0px 0px;width:27.3%;}
+.e-trade-select-date{width: 29.2%;padding: 0 15px 0 0;}
+.e-trade-select-date1{width: 26%;padding: 0 8px 0 0;}
+.e-trade-refesh-btn{padding:0px;width: 27%;}
+.apmcs-map img{margin-left:15px;margin-top:7px;}
+.select-y-state{width:25%;}
+.video-gd-view .video-g-details{padding-left:0px;padding-right:15px;}
+.v-g-imag{height:172px;width:280px;}
+.video-gd-view{margin-bottom:30px;}
+.e-trade-inputs{width: 19%;padding-left: 0;padding-right: 20px;}
+.e-trade-inputs1{width: 18%;padding-left: 0;padding-right: 20px;}
+.e-trade-refresh-b{width:7%;padding-left: 0px;}
+
+.mobile-hide{display:block;}
+
+}
+
+@media (min-width: 1920px) {
+.india-logo img{width:auto;}
+.nav>li>a{padding:10px 16px;}
+.quick-links-btn-sec{width: 19%;}
+.head-slider{width:60%;margin-top:0px;margin-bottom:0px;}
+.latest-news{width:21%;}
+.video-sec{width:21%;}
+.about-sec{width:56%;}
+.home-s-map{width:23%;}
+.content-9{width:78%;margin-bottom:0px;}
+.content-3{width:22%;}
+.india-logo .govt-logo{margin-left:8px;margin-right:7px;width:auto;}
+
+.e-nam-logo{width:273px;margin-left:22px;}
+.sfac-logo{width:136px;margin-right:22px;}
+.header-right-section{border-left:1px solid #eee;padding-left:10px;}
+.header-right-list{margin-left:15px;padding:10px 10px 10px 0px;}
+.border-line{height:86px;}
+.lag-box-sec{margin-left:80px;}
+.color-theme{padding-top:15px;margin-left:15px;}
+.navbar-default .navbar-nav>li>a{background-color:transparent;color:#fff !important;}
+.nav-sub-menu{background-color:#fff !important;width:unset !important;}
+.video-sec .elearn-v-box{margin-left:-15px;}
+.home-ind-map{margin-left:0;}
+.footer-site-links li{padding:0px 25px;margin-bottom: 8px;margin-top:9px;}
+.padd-right{padding-right:35px;}
+.asp-dis-map{position:relative;margin-left:190px;}
+.f-img{width:auto;}
+.elearn-v-box{margin-left:0px;}
+.focus-news{height:245px;}
+.focus-news marquee{height:220px;}
+.quick-link-list li{padding: 8.9px 6px;}
+
+
+.navigation li a{background-color:unset;border-bottom:0px;}
+.green-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.red-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.blue-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.orange-theme .navigation li a{background-color:unset;border-bottom:0px;}
+.apmcs-map img{width:auto;}
+.comman-c-icon-por{margin-left:20%;margin-right:20%;}
+.offset-s-1{margin-left:14.66%;}
+.offset-s-2{margin-left:37%;}
+.h-space-padd-r{padding-left:0;padding-right:15px;}
+.h-space-padd-l{padding-left:0px;padding-right:15px;}
+.h-space-padd-r-l{padding-left:15px;padding-right:0px;}
+.e-contact-detail-box{width:83.33%;padding:19px 3px;}
+.no-of-mandis-box{width:16.66%;}
+.select-state-img{width:19.5%;}
+.contact-select-state{width:25%;padding:0px;}
+.contact-select-dist{width:28.5%;}
+.contact-select-apmc{width:25%;padding:0 0px !important;}
+.e-trade-state-img{width:16.2%;}
+.e-trade-select-state{width:27.5%;padding:0 0px 0 0;margin-bottom:5px !important;}
+.e-trade-select-dist{width:28.5%;padding:0px 15px;}
+.e-trade-select-apmc{padding:0px 15px 0px 0px;width:27.3%;}
+.e-trade-select-date{width: 29.2%;padding: 0 15px 0 0;}
+.e-trade-select-date1{width: 26%;padding: 0 8px 0 0;}
+.e-trade-refesh-btn{padding:0px;width: 27%;}
+.apmcs-map img{margin-left:15px;margin-top:7px;}
+.select-y-state{width:25%;}
+.video-gd-view .video-g-details{padding-left:0px;padding-right:15px;}
+.v-g-imag{height:172px;width:280px;}
+.video-gd-view{margin-bottom:30px;}
+.e-trade-inputs{width: 19%;padding-left: 0;padding-right: 20px;}
+.e-trade-inputs1{width: 18%;padding-left: 0;padding-right: 20px;}
+.e-trade-refresh-b{width:7%;padding-left: 0px;}
+
+
+.mobile-hide{display:block;}
+}
+
+
+
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) 
+
+{
+
+
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) 
+
+
+{
+
+
+
+}

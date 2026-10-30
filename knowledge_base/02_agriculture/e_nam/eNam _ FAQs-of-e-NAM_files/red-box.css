@@ -1,0 +1,45 @@
+/*red theme*/
+.red-theme .header-section{background-color:#b45834;}
+.red-theme .navigation li a.active{background-color:#b45834;color:#fff;}
+.red-theme .navigation li a:hover{background-color:#77511;color:#fff;}
+.red-theme .home-q .quick-link-list{border-top:0px solid #b45834;}
+.red-theme .thumbnails .span3 .caption h4 {background-color: #b45834;}
+.red-theme .home-n .sidebar-header-title{    border-bottom: 0px solid #b45834;}
+.red-theme .language-bg-color{background-color: #954729;}
+.red-theme .natinal-agricul-market table thead{background-color: #b45834;}
+.red-theme .commodity-graph-section .header-title{color:#b45834;}
+
+/*new css*/
+.red-theme .navbar-toggle{background-color:#b45834;}
+.red-theme .register-icon{background-image:url('quick-link/red/register-ico.png');}
+.red-theme .login-icon{background-image:url('quick-link/red/login-ico.png');}
+.red-theme .font-size-change a{color:#b45834;}
+.red-theme .lang-box select {background-color: #b45834;}
+.red-theme .events-title{    border-bottom: 2px solid #b45834;}
+.red-theme .events-title span{background-color: #b45834;}
+.red-theme .enam-events-box p.p-date{color:#b45834 !important;}
+.red-theme .h-text-msg{color:#b45834;}
+.red-theme .map-detail-btn{background-color:#b45834;}
+.red-theme .map-detail-btn:hover{background-color:#da6233;color:#fff;}
+.red-theme .nav-bg-th{background-image:url('../images/new-theme/nav-bg-red.jpg');background-color: #b45834;}
+.red-theme .navigation li a:hover,.red-theme .navigation li a.active,.red-theme .navigation li a:focus{background-color:#5e3e00!important;}
+.red-theme .title-header-bg h3{color:#b45834;}
+.red-theme .content-section ul li{background-image:url("../images/li-arrow-r.png");}
+.red-theme .well{background-color:#ca643c;}
+.red-theme .btn-success{background-color: #a53409;    border-color: #f98f65;}
+.red-theme .btn-success:active:hover,.red-theme .btn-success:hover{background-color: #568439;    border-color: #385625;}
+.red-theme .mandi-table-h table th{background-color:#b45834;color:#fff;}
+.red-theme .sidebar-header-title span.e-text-news{background: #b45834;}
+.red-theme .sidebar-header-title{background-color:#b45834;}
+.red-theme .focus-news{background: #f3cdb1;}
+.red-theme .news-achive{background-color: #b45834;}
+.red-theme .quick-link-list li{background-color: #f3cdb1;}
+.red-theme .quick-link-list li:hover{background-color:#e0bda2;}
+.red-theme .content-section h3.p-title span{background-color:#f3cdb1;}
+.red-theme .panel-default>.panel-heading{background-color:#f9eee6;}
+.red-theme .panel-title{color:#b45834;}
+.red-theme .bc-nav a{color:#b45834;}
+.red-theme .bc-nav a:hover{color:#7d381d;}
+.red-theme .live-table-head{     background-color: #b45834;}
+.red-theme a{color:#b45834;}
+.red-theme a:hover{color:#7d381d;}

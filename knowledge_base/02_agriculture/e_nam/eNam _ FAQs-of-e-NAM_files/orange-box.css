@@ -1,0 +1,58 @@
+/*orange theme*/
+.orange-theme .header-section{background-color:#E66100;}
+.orange-theme .navigation li a.active,.orange-theme .navigation li a:hover,.orange-theme .navigation li a:focus{background-color:#770950;color:#fff;}
+.orange-theme .home-q .quick-link-list{border-top:0px solid #E66100;}
+.orange-theme .thumbnails .span3 .caption h4 {background-color: #E66100;}
+.orange-theme .home-n .sidebar-header-title{border-bottom:0px solid #E66100;}
+.orange-theme .language-bg-color{background-color: #d65c03;}
+.orange-theme .natinal-agricul-market table thead{background-color: #E66100;}
+.orange-theme .commodity-graph-section .header-title{color:#E66100;}
+
+/*new css*/
+.orange-theme .navbar-toggle{background-color:#E66100;}
+.orange-theme .register-icon{background-image:url('quick-link/orange/register-ico.png');}
+.orange-theme .login-icon{background-image:url('quick-link/orange/login-ico.png');}
+.orange-theme .font-size-change a{color:#E66100;}
+.orange-theme .lang-box select {background-color: #E66100;}
+.orange-theme .events-title{    border-bottom: 2px solid #E66100;}
+.orange-theme .events-title span{background-color: #E66100;}
+.orange-theme .enam-events-box p.p-date{color:#E66100 !important;}
+.orange-theme .h-text-msg{color:#9a156b;}
+.orange-theme .map-detail-btn{background-color:#e66100;}
+.orange-theme .map-detail-btn:hover{background-color:#c75603;color:#fff;}
+.orange-theme .nav-bg-th{background-image:url('../images/new-theme/nav-bg-orange.jpg');background-color: #9a156b;}
+.orange-theme .title-header-bg h3{color:#e66100;}
+.orange-theme .content-section ul li{background-image:url("../images/li-arrow-o.png");}
+.orange-theme .well{background-color:#ea6d12;}
+.orange-theme .btn-success{background-color: #c55503;    border-color: #f3893d;}
+.orange-theme .btn-success:active:hover,.orange-theme .btn-success:hover{background-color: #568439;    border-color: #385625;}
+.orange-theme .mandi-table-h table th{background-color:#e66100;color:#fff;}
+.orange-theme .sidebar-header-title span.e-text-news{background: #9a156b;}
+.orange-theme .sidebar-header-title{background-color:#9a156b;}
+.orange-theme .focus-news{background: #f6d6eb;}
+.orange-theme .news-achive{background-color: #9a156b;}
+.orange-theme .quick-link-list li{background-color: #f6d6eb;}
+.orange-theme .quick-link-list li:hover{background-color:#dccad6;}
+.orange-theme .content-section h3.p-title span{background-color:#f6d6eb;}
+.orange-theme .panel-default>.panel-heading{background-color:#fff1d7;}
+.orange-theme .panel-title{color:#9a156b;}
+.orange-theme .bc-nav a{color:#9a156b;}
+.orange-theme .bc-nav a:hover{color:#6f0a4b;}
+.orange-theme .live-table-head{     background-color: #9a156b;}
+.orange-theme a{color:#9a156b;}
+.orange-theme a:hover{color:#6f0a4b;}
+
+/*.orange-theme .sidebar-header-title span.e-text-news{background: #c98508;}
+.orange-theme .sidebar-header-title{background-color:#c98508;}
+.orange-theme .focus-news{background: #dcc395;}
+.orange-theme .news-achive{background-color: #c98508;}
+.orange-theme .quick-link-list li{background-color: #dcc395;}
+.orange-theme .quick-link-list li:hover{background-color:#d0b88d;}
+.orange-theme .content-section h3.p-title span{background-color:#dcc395;}
+.orange-theme .panel-default>.panel-heading{background-color:#fff1d7;}
+.orange-theme .panel-title{color:#c98508;}
+.orange-theme .bc-nav a{color:#c98508;}
+.orange-theme .bc-nav a:hover{color:#385602;}
+.orange-theme .live-table-head{     background-color: #c98508;}
+.orange-theme a{color:#c98508;}
+.orange-theme a:hover{color:#385602;}*/
